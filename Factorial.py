@@ -13,5 +13,5 @@ else:
 
 # Anonymous function
 
-import sys
+
 
